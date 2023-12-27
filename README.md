@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Owen Orcan</h1>
-<h3 align="center">A passionate Python Developer</h3>
+<h3 align="center">I'm a passionate software developer who is always looking for opportunities to learn and grow.
+</h3>
 
-- 🔭 I’m currently working on [Pik! AI Coding Assistant](https://github.com/OwenOrcan/Pik)
 
-- 📫 How to reach me **owenorcan@gmail.com**
+- 🔭 I’m currently working on: AI-driven text analysis for a natural language processing project and making the backend of my [website](https://orhan.orcan.uk/).
+- 🌱 I’m currently learning: Deep Learning, Backend Web Development, Web Scraping.
+- 👯 I’m looking to collaborate on: Open-source projects related Python..
+- 💬 Ask me about: Anything related to programming, technology!
+- 📫 How to reach me: Feel free to reach out to me via [email](mailto:owen.orcan@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy watching and analyzing YouTube videos for patterns and insights.
+
+## Currently Working On
+
 
 <p align="left">
 </p>
