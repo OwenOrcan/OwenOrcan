@@ -11,9 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy watching and analyzing YouTube videos for patterns and insights.
 
-## Currently Working On
-
-
 <p align="left">
 </p>
 
