@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is OwenOrcan
+<h2 align="left">Hi 👋! My name is OwenOrcan</h2>
 
 ###
 
@@ -8,33 +8,47 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://64.media.tumblr.com/dd5f707ab223058138f8b8a2fcb56113/26a7eab8f05dd051-ec/s640x960/df92e2e5e1f1f649a5e3d791a7a0652de00e0b7e.gif" alt="Animated image"/>
 </div>
 
 ###
 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" style="margin: 10px;" />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://discordapp.com/users/929464832711860284"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:owenorcan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/owenorcan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+<div align="center">
+  <a href="https://discordapp.com/users/929464832711860284"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  style="margin: 5px;" /></a>
+  <a href="mailto:owenorcan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  style="margin: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/owenorcan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  style="margin: 5px;" /></a>
+</div>
+
+###
+
+
+<div align="center">
+  <h3>Achievements</h3>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" style="margin: 5px;" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" style="margin: 5px;" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo" style="margin: 5px;" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" style="margin: 5px;" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" style="margin: 5px;" />
+</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OwenOrcan/OwenOrcan/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <h3>Contribution Chart</h3>
+  <img src="https://raw.githubusercontent.com/OwenOrcan/OwenOrcan/output/snake.svg" alt="Snake animation" width="10000"/>
+</div>
 
 ###
