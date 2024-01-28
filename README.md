@@ -8,7 +8,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <img src="https://64.media.tumblr.com/dd5f707ab223058138f8b8a2fcb56113/26a7eab8f05dd051-ec/s640x960/df92e2e5e1f1f649a5e3d791a7a0652de00e0b7e.gif" alt="Animated image"/>
+</div>
 
 ###
 
