@@ -32,14 +32,7 @@
 ###
 
 
-<div align="center">
-  <h3>Achievements</h3>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" style="margin: 5px;" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" style="margin: 5px;" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo" style="margin: 5px;" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" style="margin: 5px;" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" style="margin: 5px;" />
-</div>
+
 
 ###
 
@@ -47,7 +40,6 @@
 
 
 <div align="center">
-  <h3>Contribution Chart</h3>
   <img src="https://raw.githubusercontent.com/OwenOrcan/OwenOrcan/output/snake.svg" alt="Snake animation" width="10000"/>
 </div>
 
