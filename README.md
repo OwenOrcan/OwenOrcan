@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is OwenOrcan</h2>
+
 
 ###
 
@@ -10,15 +10,28 @@
 ###
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/dd5f707ab223058138f8b8a2fcb56113/26a7eab8f05dd051-ec/s640x960/df92e2e5e1f1f649a5e3d791a7a0652de00e0b7e.gif" alt="Animated image"/>
+  <img src="https://64.media.tumblr.com/0ab86e915b15461ce894dffecdbb459b/02712602fee67abe-5d/s540x810/dc05271a2a60772ee9b3ad5ecf06014ddb8d8418.gifv" alt="Animated image"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" style="margin: 10px"; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain-wordmark.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="50" style="margin: 10px" />
 </div>
 
 ###
