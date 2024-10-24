@@ -9,9 +9,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/0ab86e915b15461ce894dffecdbb459b/02712602fee67abe-5d/s540x810/dc05271a2a60772ee9b3ad5ecf06014ddb8d8418.gifv" alt="Animated image"/>
-</div>
+
 
 ###
 
