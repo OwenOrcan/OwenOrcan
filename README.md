@@ -1,10 +1,10 @@
 <div align="center">
   <h1 style="font-family: 'Poppins', sans-serif; font-size: 3rem; color: #00bcd4;">👋 Hello, World! I'm <span style="color: #ff9800;">Owen Orcan</span></h1>
-  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2rem; color: #ffffffdd;">🚀 Backend Developer | 🎓 Student </p>
+  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2rem; color: #ffffffdd;">🚀 Backend Software Engineer | 🎓 Student </p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=4000&pause=500&color=FF9800&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Enthusiast;Passionate+about+Backend+Development;Learning+%7C+Building+%7C+Growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=4000&pause=500&color=FF9800&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Backend+Software+Engineer;Currently+Working+On+Followbuddy.com;" alt="Typing Animation" />
 </div>
 
 ---
@@ -13,7 +13,13 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 10px;" />'
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="C++" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="C++" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="C++" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="50" alt="C++" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="50" alt="C++" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" height="50" alt="C++" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" alt="Flask" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="margin: 10px;" />
